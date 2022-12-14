@@ -133,7 +133,7 @@
     "event-to-promise": "^0.8.0",
     "git-diff": "^2.0.6",
     "glob": "^8.0.3",
-    "graphql": "^16.5.0",
+    "graphql": "^16.6.0",
     "http-status-code": "^2.1.0",
     "husky": "^8.0.1",
     "japanese-characters": "^1.1.0",
