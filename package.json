@@ -348,7 +348,7 @@
     "@types/cheerio": "^0.22.35",
     "@types/connect-datadog": "0.0.10",
     "@types/connect-timeout": "0.0.39",
-    "@types/cookie": "0.6.0",
+    "@types/cookie": "1.0.0",
     "@types/cookie-parser": "1.4.7",
     "@types/elasticsearch": "^5.0.43",
     "@types/event-to-promise": "^0.7.5",
